@@ -1,6 +1,2 @@
-print("Olá mundo!")
-print("Olá mundo!")
-print("Olá mundo!")
-print("Olá mundo!")
-print("Olá mundo!")
-print("Olá mundo!")
+for i in range(5):
+    print("Olá mundo!")
